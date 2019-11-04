@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUi", "WebUi\WebUi.csproj", "{88516791-A052-4FE1-9255-F118B7345711}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUi", "WebUi\WebUi.csproj", "{99DDEE4A-1E3D-44A5-A287-C9BBF22E7A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88516791-A052-4FE1-9255-F118B7345711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88516791-A052-4FE1-9255-F118B7345711}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88516791-A052-4FE1-9255-F118B7345711}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88516791-A052-4FE1-9255-F118B7345711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DDEE4A-1E3D-44A5-A287-C9BBF22E7A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DDEE4A-1E3D-44A5-A287-C9BBF22E7A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DDEE4A-1E3D-44A5-A287-C9BBF22E7A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DDEE4A-1E3D-44A5-A287-C9BBF22E7A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
